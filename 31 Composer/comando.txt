@@ -1,0 +1,3 @@
+composer init // cria o json de configuração do composer
+composer install // le o arquivo de configuração e instala as dependencias na primeira vez
+composer update // le o arquivo de configuração e instala as dependencias em qualquer vez

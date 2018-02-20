@@ -1,0 +1,14 @@
+{
+    "name": "rafaelvalentim/vendor",
+    "description": "teste",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rafael Valentim",
+            "email": "rmoraesvalentim@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "~6.0"
+    }
+}
